@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "new",
+=======
+  "name": "firstproject21",
+>>>>>>> c1e07f859c19f3b19e896318ed1c2ed8e5a36145
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
