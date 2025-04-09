@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="330654cd-d85d-47a0-9b47-821c73392c43" name="Changes" comment="first commit" />
+    <list default="true" id="330654cd-d85d-47a0-9b47-821c73392c43" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +30,12 @@
     &quot;assignee&quot;: &quot;TranChien321&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/TranChien321/firstproject21.git&quot;,
-    &quot;accountId&quot;: &quot;cdd85e2f-d10d-4c2e-8187-2e756364f2a0&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TranChien321/firstproject21.git",
+    "accountId": "87e68176-1f3b-4954-81e4-5fbc5f2c9d6f"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -73,13 +76,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="044d2324-c1d7-43b5-920f-77eea17787c2" name="Changes" comment="" />
+      <changelist id="330654cd-d85d-47a0-9b47-821c73392c43" name="Changes" comment="first commit" />
       <created>1744097266431</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744097266431</updated>
       <workItem from="1744097267464" duration="3406000" />
       <workItem from="1744101520391" duration="4230000" />
+      <workItem from="1744211269528" duration="2265000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
