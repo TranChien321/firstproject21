@@ -5,13 +5,27 @@
     <title>Thời Khoá Biểu</title>
 </head>
 <body>
-<table>
-    <h1> Thời Khoá Biểu </h1>
+<form>
+  <table>
     <tr>
-        <td align="right"> Lớp: T0908I</td>
-        <td algin="left"> Thời gian học: 13h - 17h30</td>
+        <th> SỞ THÍCH CỦA BẠN </th>
     </tr>
-</table>
+      <tr>
+          <td> Họ và tên </td>
+          <td colspan="3"><input type="texbox" name="text"></td>
+      </tr>
+      <tr>
+          <td> Email </td>
+          <td colspan="3"><input type="texbox" name="email"></td>
+      </tr>
 
+      <tr>
+          <td> Sở thích </td>
+          <td><label><input name="hobby" value="travel" type="checkbox"/> Du lịch</label></td>
+          <td><label><input name="hobby" value="sport" type="checkbox"/> Thể thao</label></td>
+          <td><label><input name="hobby" value="cooking" type="checkbox"/> Nấu ăn</label></td>
+      </tr>
+  </table>
+</form>
 </body>
 </html>
