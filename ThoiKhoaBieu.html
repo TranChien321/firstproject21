@@ -3,15 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>Thời Khoá Biểu</title>
+    <link rel="stylesheet" href="Thoikhoabieu.css">
 </head>
 <body>
 <form>
   <table>
     <tr>
-        <th> SỞ THÍCH CỦA BẠN </th>
+        <th colspan="4"> SỞ THÍCH CỦA BẠN </th>
     </tr>
       <tr>
-          <td> Họ và tên </td>
+          <td > Họ và tên </td>
           <td colspan="3"><input type="texbox" name="text"></td>
       </tr>
       <tr>
@@ -20,10 +21,22 @@
       </tr>
 
       <tr>
-          <td> Sở thích </td>
+          <td rowspan="4"> Sở thích </td>
           <td><label><input name="hobby" value="travel" type="checkbox"/> Du lịch</label></td>
           <td><label><input name="hobby" value="sport" type="checkbox"/> Thể thao</label></td>
           <td><label><input name="hobby" value="cooking" type="checkbox"/> Nấu ăn</label></td>
+      </tr>
+      <tr>
+          <td><label><input name="hobby" value="music" type="checkbox"/> Âm nhạc </label></td>
+          <td><label><input name="hobby" value="book" type="checkbox"/> Đọc sách </label></td>
+          <td><label><input name="hobby" value="cinema" type="checkbox"/> Điện ảnh</label></td><br/>
+      </tr>
+      <tr>
+          <td colspan="2"><label><input name="hobby" value="web" type="checkbox"/> Lướt web</label><br/>
+      </tr>
+      <tr>
+          <td> <input type="submit" value="Gửi thông tin"/></td>
+          <td> <input type="reset" value="Nhập lại"/> </td>
       </tr>
   </table>
 </form>
