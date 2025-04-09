@@ -1,0 +1,16 @@
+th{
+    background: orangered;
+    color: white;
+
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    text-align: left;
+    padding: 10px;
+    color: blue;
+}
+label{
+    color: orangered;
+}
