@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="330654cd-d85d-47a0-9b47-821c73392c43" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thoi_khoa_bieu_baitap5.css" beforeDir="false" afterPath="$PROJECT_DIR$/Thoi_khoa_bieu_baitap5.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thoi_khoa_bieu_baitap5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thoi_khoa_bieu_baitap5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +84,7 @@
       <workItem from="1744097267464" duration="3406000" />
       <workItem from="1744101520391" duration="4230000" />
       <workItem from="1744211269528" duration="5492000" />
-      <workItem from="1744249277409" duration="4530000" />
+      <workItem from="1744249277409" duration="7591000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />

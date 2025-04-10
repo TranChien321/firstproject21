@@ -1,0 +1,22 @@
+table {
+    width: 300px;
+    height: 300px;
+    table-layout: fixed;
+    background: orange;
+}
+th,td{
+    text-align: center;
+    padding: 50px;
+    width: 50px;
+    height: 50px;
+}
+.boder-white{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+}
+.boder-black{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+}
