@@ -1,14 +1,31 @@
 table {
-    width: 100%;
+    width: 800px;
     border-collapse: collapse;
-    text-align: center;
-}
+    }
 th {
+    color: blue;
+    font-size: 40px;
+    font-weight: bold;
+}
+.border-none {
+    color: blue;;
+    border: none;
+}
+.bg-yellow{
     background-color: yellow;
-    padding: 10px;
     border: 1px solid black;
 }
-td {
+.text-center{
+    text-align: center;
+}
+.br-origin{
+    text-align: center;
+    background-color: orange;
+}
+.br-boder{
+    border: 1px solid black;
     padding: 10px;
+}
+.boder-black{
     border: 1px solid black;
 }

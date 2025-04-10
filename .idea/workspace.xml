@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="330654cd-d85d-47a0-9b47-821c73392c43" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thoi_khoa_bieu_baitap5.css" beforeDir="false" afterPath="$PROJECT_DIR$/Thoi_khoa_bieu_baitap5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thoi_khoa_bieu_baitap5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thoi_khoa_bieu_baitap5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
       </list>
@@ -32,7 +35,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/TranChien321/firstproject21.git",
-    "accountId": "87e68176-1f3b-4954-81e4-5fbc5f2c9d6f"
+    "accountId": "cdd85e2f-d10d-4c2e-8187-2e756364f2a0"
   }
 }]]></component>
   <component name="ProblemsViewState">
@@ -61,7 +64,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -83,6 +86,7 @@
       <workItem from="1744097267464" duration="3406000" />
       <workItem from="1744101520391" duration="4230000" />
       <workItem from="1744211269528" duration="5492000" />
+      <workItem from="1744249277409" duration="4530000" />
     </task>
     <task id="LOCAL-00001" summary="main">
       <option name="closed" value="true" />
